@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 258fb00e8d39d844dab9c6b8ac5c8c09
+  m_SerializeEntries:
+  - m_GUID: e99805d3f208f6647ba56575090240ea
+    m_Address: Assets/Prefabs/LevelPrefabs/Level3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 6127776d6ee5d9246812cb998a95fa98
+    m_Address: Assets/Prefabs/LevelPrefabs/Level1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 3819b715c78cdf3488972c744fa8625e
+    m_Address: Assets/Prefabs/LevelPrefabs/Level2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: e67030a9da4d93a468e4a30b748f6567
+    m_Address: Assets/Prefabs/LevelPrefabs/Level4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  - m_GUID: 5b14ca2477195124daeee8e0f5daf21b
+    m_Address: Assets/Prefabs/LevelPrefabs/Level5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 95fa245491ce3454eb7196723ec95acd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 938ca1ad9808c51459fe167ecc6cb391, type: 2}
+    - {fileID: 11400000, guid: 99fad44390f1b2a40b652aaee78f9883, type: 2}
